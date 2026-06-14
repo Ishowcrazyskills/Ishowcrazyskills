@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm Biggie, a cybersecurity student and aspiring s
 
 ## About Me
 
-I'm a 21-year-old BTech student at MIT ADT University in Pune, India, pursuing a career in cybersecurity. I'm passionate about learning security concepts, tackling real-world challenges, and building my expertise in defensive and offensive security.
+I'm a 21-year-old BTech student at MIT ADT University in Pune, India, pursuing a career in cybersecurity. I'm passionate about learning security concepts, tackling real-world challenges, and building a strong foundation in information security.
 
 Currently, I'm open to collaborations, founding opportunities, and guidance from experienced security professionals and industry mentors.
 
@@ -50,16 +50,17 @@ Currently, I'm open to collaborations, founding opportunities, and guidance from
 
 ## Goals
 
-I'm committed to deepening my expertise in cybersecurity while contributing to open-source projects and collaborating with professionals in the field. I aim to transition theory into practical solutions and make a meaningful impact in the security community.
+I'm committed to deepening my expertise in cybersecurity while contributing to open-source projects and collaborating with professionals in the field. I aim to transition theory into practical solutions and make a positive impact in the security community.
 
 ## Let's Connect
 
-I'm always interested in discussing security topics, learning from experienced professionals, and exploring collaboration opportunities. Feel free to reach out if you'd like to connect or discuss anything related to cybersecurity!
+I'm always interested in discussing security topics, learning from experienced professionals, and exploring collaboration opportunities. Feel free to reach out if you'd like to connect or discuss opportunities!
 
 ### Contact & Social Links
 - **Email:** sarangbeleorg@gmail.com
 - **LinkedIn:** [Sarang Bele](https://www.linkedin.com/in/sarang-bele-3a2853340/)
 - **Instagram:** [@bitofbig](https://www.instagram.com/bitofbig)
+- **X (Twitter):** [@bitofbig](https://x.com/bitofbig)
 
 ---
 
