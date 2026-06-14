@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm Biggie, a cybersecurity student and aspiring s
 
 ## About Me
 
-I'm a 21-year-old BTech student at MIT ADT University in Pune, India, pursuing a career in cybersecurity. I'm passionate about learning security concepts, tackling real-world challenges, and building practical expertise through hands-on labs and projects. I document my progress, share learnings, and actively seek collaboration with like-minded professionals and mentors in the industry.
+I'm a 21-year-old BTech student at MIT ADT University in Pune, India, pursuing a career in cybersecurity. I'm passionate about learning security concepts, tackling real-world challenges, and building practical solutions.
 
 Currently, I'm open to collaborations, founding opportunities, and guidance from experienced security professionals and industry mentors.
 
@@ -50,11 +50,16 @@ Currently, I'm open to collaborations, founding opportunities, and guidance from
 
 ## Goals
 
-I'm committed to deepening my expertise in cybersecurity while contributing to open-source projects and collaborating with professionals in the field. I aim to transition theory into practical solutions and build a strong foundation for a career in information security.
+I'm committed to deepening my expertise in cybersecurity while contributing to open-source projects and collaborating with professionals in the field. I aim to transition theory into practical solutions and make meaningful contributions to the security community.
 
 ## Let's Connect
 
-I'm always interested in discussing security topics, learning from experienced professionals, and exploring collaboration opportunities. Feel free to reach out if you'd like to connect or discuss potential projects.
+I'm always interested in discussing security topics, learning from experienced professionals, and exploring collaboration opportunities. Feel free to reach out if you'd like to connect or discuss potential opportunities!
+
+### Contact & Social Links
+- **Email:** sarangbeleorg@gmail.com
+- **LinkedIn:** [Sarang Bele](https://www.linkedin.com/in/sarang-bele)
+- **Instagram:** @bitofbig
 
 ---
 
